@@ -20,3 +20,10 @@ Mô phỏng các bài toán phân tích dữ liệu thực tế trong lĩnh vự
 + Đóng góp của từng nhóm sản phẩm
 
 Làm nền tảng để phát triển thành báo cáo, dashboard hoặc pipeline tự động sau này.
+## Top những câu hỏi 
+### 1. Liệt kê tất cả các thành phố khách hàng đang sinh sống
+
+```sql
+Select distinct customer_city as Tên_thành_phố
+from Customers
+```
