@@ -3,20 +3,20 @@
 ## Mục tiêu chính
 Thể hiện kỹ năng sử dụng SQL trong các tác vụ:
 
-Cơ bản: lọc dữ liệu, đếm, phân nhóm.
++ Cơ bản: lọc dữ liệu, đếm, phân nhóm.
 
-Trung bình: phân tích theo thời gian, tính trung bình, phần trăm đóng góp.
++ Trung bình: phân tích theo thời gian, tính trung bình, phần trăm đóng góp.
 
-Nâng cao: sử dụng CTE, hàm cửa sổ (window functions), xếp hạng, tính tăng trưởng theo năm.
++ Nâng cao: sử dụng CTE, hàm cửa sổ (window functions), xếp hạng, tính tăng trưởng theo năm.
 
 Mô phỏng các bài toán phân tích dữ liệu thực tế trong lĩnh vực thương mại điện tử, như:
 
-Phân tích doanh thu và đơn hàng
++ Phân tích doanh thu và đơn hàng
 
-Hiệu suất của từng nhà bán hàng
++ Hiệu suất của từng nhà bán hàng
 
-Hành vi khách hàng theo khu vực
++ Hành vi khách hàng theo khu vực
 
-Đóng góp của từng nhóm sản phẩm
++ Đóng góp của từng nhóm sản phẩm
 
 Làm nền tảng để phát triển thành báo cáo, dashboard hoặc pipeline tự động sau này.
